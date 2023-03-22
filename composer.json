@@ -1,10 +1,8 @@
 {
     "name": "boris99999/imagecrop",
     "description": "Crop image",
-    "minimum-stability":"stable",
     "require": {
-        "php": ">=7.0",
-        "another-vendor/package": "1.*"
+        "php": ">=7.0"
     },
     "type": "library",
     "license": "proprietary",
@@ -17,5 +15,16 @@
         {
             "name": "Belov Boris"
         }
-    ]
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "boris99999/imagecrop": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
 }
