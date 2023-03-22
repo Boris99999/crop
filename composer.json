@@ -1,6 +1,7 @@
 {
     "name": "boris99999/imagecrop",
     "description": "Crop image",
+    "minimum-stability":"stable",
     "require": {
         "php": ">=7.0",
         "another-vendor/package": "1.*"
