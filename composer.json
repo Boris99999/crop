@@ -1,0 +1,17 @@
+{
+    "name": "boris99999/imagecrop",
+    "description": "Crop image",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Boris99999\\Imagecrop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Belov Boris"
+        }
+    ],
+    "require": {}
+}
